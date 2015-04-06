@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Your awesome title</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>2015-04-05 20:42:18 -0400</pubDate>
+    <lastBuildDate>2015-04-05 20:42:18 -0400</lastBuildDate>
+    <generator>Jekyll v</generator>
+    
+      <item>
+        <title>Revisiting a Classic</title>
+        <description>Earlier this week, I looked at my bookcase to see which books I have not had a chance to finish.  I'm very interested in geopolitics, economics and history.  One of my favorite books about investing is Burton Malkiel's A Random Walk Down Wall Street.  I have an older edition from 1990, but this classic book is just as relevant today as it was 25 years ago or even when it was first published in 1973.
+
+A Random Walk Down Wall Street is essential reading for anyone who is interested in learning about investing.  Malkiel's long-range investment strategy of buying a diversified index of securities over time is likely to beat the performance of portfolios picked by professionals who use sophisticated techniques of financial analysis.  This approach is especially effective if investors are disciplined enough to look at corrections as a buying opportunity.  Understanding when to capitalize on the udervaluation of high quality companies in a sector of the economy which is expected to grow is the art of value investing.
+
+We find ourselves in an environment of excessive central bank money printing and abnormally low interest rates.  The purchasing power of our savings will continue to erode.  Now more than every, investing wisely is an absolute necessity.  A Random Walk Down Wall Street should be on everyone's reading list.
+
+</description>
+        <pubDate>2015-04-05 14:37:46 -0400</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2015/04/05/revisiting-a-classic.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/04/05/revisiting-a-classic.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;pre&gt;&lt;code class=&quot;ruby&quot;&gt;def print_hi(name)
+  puts &amp;quot;Hi, #{name}&amp;quot;
+end
+print_hi('Tom')
+#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>2015-04-05 14:22:46 -0400</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2015/04/05/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/04/05/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
